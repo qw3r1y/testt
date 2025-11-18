@@ -193,28 +193,6 @@ Stay updated with the latest AI research and papers.
 - [r/LLMDevs](https://www.reddit.com/r/LLMDevs) - LLM development
 - [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion) - Image generation
 
-
-## 🔄 AI Automation & Workflows
-
-Powerful automation platforms for connecting apps and building workflows.
-
-### 🔌 No-Code Automation Platforms
-- [Zapier](https://zapier.com) - 8,700+ integrations, beginner-friendly, AI-powered Zaps
-- [Make](https://www.make.com) - Visual automation, 3,000+ apps, advanced flow control
-- [n8n](https://n8n.io) - Open-source, self-hosted, 70+ AI nodes with LangChain
-- [Pipedream](https://pipedream.com) - Developer-friendly automation
-- [Activepieces](https://www.activepieces.com) - Open-source automation
-
-### 🤖 AI-Native Automation
-- [Lleverage](https://www.lleverage.ai) - AI-native automation with text-to-workflow
-- [Zapier Central](https://zapier.com/central) - AI-powered bots for business
-- [Zapier Canvas](https://zapier.com/canvas) - Visual process mapping with AI
-- [Relay.app](https://relay.app) - AI-powered workflow automation
-
-### 🏢 Enterprise Integration Tools
-- [Integromat/Celigo](https://www.celigo.com) - iPaaS solution
-- [Automate.io](https://automate.io) - Simple automation tool
-
 ## 📰 News & Trends
 
 Stay informed about the latest AI developments.
@@ -284,6 +262,29 @@ Stay informed about the latest AI developments.
 - [@GoogleAI](https://twitter.com/GoogleAI) - Google AI
 - [@MSFTResearch](https://twitter.com/MSFTResearch) - Microsoft Research
 - [@TeslaAI](https://twitter.com/TeslaAI) - Tesla AI developments
+
+## 🔄 AI Automation & Workflows
+
+Powerful automation platforms for connecting apps and building workflows.
+
+### 🔌 No-Code Automation Platforms
+- [Zapier](https://zapier.com) - 8,700+ integrations, beginner-friendly, AI-powered Zaps
+- [Make](https://www.make.com) - Visual automation, 3,000+ apps, advanced flow control
+- [n8n](https://n8n.io) - Open-source, self-hosted, 70+ AI nodes with LangChain
+- [Pipedream](https://pipedream.com) - Developer-friendly automation
+- [Activepieces](https://www.activepieces.com) - Open-source automation
+
+### 🤖 AI-Native Automation
+- [Lleverage](https://www.lleverage.ai) - AI-native automation with text-to-workflow
+- [Zapier Central](https://zapier.com/central) - AI-powered bots for business
+- [Zapier Canvas](https://zapier.com/canvas) - Visual process mapping with AI
+- [Relay.app](https://relay.app) - AI-powered workflow automation
+
+### 🏢 Enterprise Integration Tools
+- [Integromat/Celigo](https://www.celigo.com) - iPaaS solution
+- [Automate.io](https://automate.io) - Simple automation tool
+
+
 
 ### 💭 AI Analysis & Commentary
 - [Stratechery](https://stratechery.com) - Tech strategy analysis
