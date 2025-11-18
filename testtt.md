@@ -192,22 +192,7 @@ Stay updated with the latest AI research and papers.
 - [r/RAG](https://www.reddit.com/r/Rag) - Retrieval-Augmented Generation
 - [r/LLMDevs](https://www.reddit.com/r/LLMDevs) - LLM development
 - [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion) - Image generation
-
-## 📰 News & Trends
-
-Stay informed about the latest AI developments.
-
-### 📡 News Outlets & Twitter
-
-**News Sites**
-- [MIT Tech Review AI](https://www.technologyreview.com/ai) - In-depth AI analysis
-- [The Decoder](https://the-decoder.com) - AI news and insights
-- [TechCrunch AI](https://techcrunch.com/tag/artificial-intelligence) - AI industry news
-- [The Verge AI](https://www.theverge.com/artificial-intelligence) - AI tech coverage
-- [VentureBeat AI](https://venturebeat.com/category/ai) - AI business news
-- [Ars Technica AI](https://arstechnica.com/tag/artificial-intelligence) - Technical AI coverage
-- [Hacker News AI](https://news.ycombinator.com) - Tech and AI news, discussions
-
+### 🤖 Twitter Communities
 **X (Twitter) - Communities**
 - [AI Community](https://x.com/i/communities/1669621226803798017) - 100k+ members, active daily discussions
 - [Machine Learning Hub](https://x.com/i/communities/ml) - ML professionals and researchers
@@ -262,6 +247,23 @@ Stay informed about the latest AI developments.
 - [@GoogleAI](https://twitter.com/GoogleAI) - Google AI
 - [@MSFTResearch](https://twitter.com/MSFTResearch) - Microsoft Research
 - [@TeslaAI](https://twitter.com/TeslaAI) - Tesla AI developments
+
+## 📰 News & Trends
+
+Stay informed about the latest AI developments.
+
+### 📡 News Outlets & Twitter
+
+**News Sites**
+- [MIT Tech Review AI](https://www.technologyreview.com/ai) - In-depth AI analysis
+- [The Decoder](https://the-decoder.com) - AI news and insights
+- [TechCrunch AI](https://techcrunch.com/tag/artificial-intelligence) - AI industry news
+- [The Verge AI](https://www.theverge.com/artificial-intelligence) - AI tech coverage
+- [VentureBeat AI](https://venturebeat.com/category/ai) - AI business news
+- [Ars Technica AI](https://arstechnica.com/tag/artificial-intelligence) - Technical AI coverage
+- [Hacker News AI](https://news.ycombinator.com) - Tech and AI news, discussions
+
+
 
 ## 🔄 AI Automation & Workflows
 
