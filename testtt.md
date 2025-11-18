@@ -193,92 +193,6 @@ Stay updated with the latest AI research and papers.
 - [r/LLMDevs](https://www.reddit.com/r/LLMDevs) - LLM development
 - [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion) - Image generation
 
-## 🎬 AI Video Generation
-
-Professional AI-powered video creation and avatar tools.
-
-### 🎭 Avatar & Talking Head Generators
-- [HeyGen](https://www.heygen.com) - #1 AI video with realistic avatars, 4K export, video translation
-- [Synthesia](https://www.synthesia.io) - 230+ AI avatars, 140+ languages, enterprise-ready
-- [Colossyan](https://www.colossyan.com) - Interactive videos with branching scenarios for L&D
-- [D-ID](https://www.d-id.com) - Create videos from photos with AI
-- [Elai.io](https://elai.io) - Text to video with AI avatars
-- [Hour One](https://hourone.ai) - Synthetic video creation
-- [DeepBrain AI](https://www.deepbrain.io) - AI video synthesis with lifelike avatars
-- [Voomo.ai](https://www.voomo.ai) - Flexible templates with AI avatars and voices
-
-### 🎥 Text-to-Video Generators
-- [Runway Gen-4](https://runwayml.com) - Character/scene consistency with image references
-- [Sora](https://sora.com) - OpenAI's cinematic video generator, 1080p/20s
-- [Google Veo 3](https://deepmind.google/technologies/veo) - Native synchronized audio, watermarking
-- [Pika Labs](https://pika.art) - AI video generation and editing
-- [Luma Dream Machine](https://lumalabs.ai) - High-quality video generation
-- [Kling AI](https://klingai.com) - Advanced video generation
-- [Stable Video Diffusion](https://stability.ai) - Open-source video generation
-
-### ✂️ Video Editing & Enhancement
-- [Descript](https://www.descript.com) - Video editing with transcription
-- [Captions AI](https://www.captions.ai) - Automated video editing with captions
-- [InVideo](https://invideo.io) - AI video creation and editing
-- [Pictory](https://pictory.ai) - Turn text content into videos
-- [Vidnoz](https://www.vidnoz.com) - Free AI video tools
-- [revid.ai](https://revid.ai) - Viral video generator with TikTok trends
-- [Munch](https://www.getmunch.com) - Extract highlights from long videos
-
-## 🎵 AI Music & Audio
-
-Create original music and audio with AI-powered tools.
-
-### 🎼 AI Music Generators
-- [Suno](https://suno.ai) - #1 AI music generator, full songs with vocals
-- [Udio](https://udio.com) - Grammy-producer trusted, DAW integration, stem export
-- [Soundverse](https://www.soundverse.ai) - Text-to-Music AI, Auto Complete, Stem Separation
-- [ElevenLabs Music](https://elevenlabs.io/music) - AI music and sound effects generation
-- [Soundraw](https://soundraw.io) - Unlimited generation, granular control, royalty-free
-- [AIVA](https://www.aiva.ai) - AI composer for professional scoring
-- [Beatoven.ai](https://www.beatoven.ai) - Royalty-free music for creators
-- [Mubert](https://mubert.com) - AI-generated royalty-free music
-- [Loudly](https://www.loudly.com) - AI music for DJs and sound designers
-- [Riffusion](https://www.riffusion.com) - Visual spectrogram diffusion music
-- [Musicfy](https://www.musicfy.lol) - Quick royalty-free tracks
-- [AudioCipher](https://www.audiocipher.com) - Text-to-MIDI conversion
-
-### 🎙 AI Voice & Audio Tools
-- [ElevenLabs](https://elevenlabs.io) - Best AI voice generation and cloning
-- [Speechify](https://speechify.com) - Text-to-speech platform
-- [Descript Overdub](https://www.descript.com/overdub) - AI voice cloning
-- [Play.ht](https://play.ht) - AI voice generator
-- [Resemble AI](https://www.resemble.ai) - Voice cloning and synthesis
-- [Murf AI](https://murf.ai) - AI voiceover generator
-
-## 🎨 Creative AI Tools
-
-AI-powered tools for visual, design, and creative work.
-
-### 🖼 AI Image Generators
-- [Midjourney](https://www.midjourney.com) - Leading AI image generation
-- [DALL-E 3](https://openai.com/dall-e-3) - OpenAI's image generator
-- [Stable Diffusion](https://stability.ai) - Open-source image generation
-- [Leonardo.ai](https://leonardo.ai) - Creative AI image platform
-- [Krea](https://krea.ai) - Real-time AI image generation
-- [Firefly](https://www.adobe.com/products/firefly.html) - Adobe's AI image generator
-- [Ideogram](https://ideogram.ai) - AI with great text rendering
-- [Flux](https://blackforestlabs.ai) - New frontier in image generation
-
-### 🎨 AI Design Tools
-- [Canva AI](https://www.canva.com/ai-image-generator) - AI design features in Canva
-- [Figma AI](https://www.figma.com/ai) - AI tools in Figma
-- [Framer AI](https://www.framer.com) - AI website builder
-- [Uizard](https://uizard.io) - UI design with AI
-- [Galileo AI](https://www.usegalileo.ai) - UI generation from text
-- [Khroma](https://www.khroma.co) - AI color tool for designers
-
-### ✨ AI Image Editing
-- [Photoshop AI](https://www.adobe.com/products/photoshop.html) - Adobe's AI features
-- [Topaz Labs](https://www.topazlabs.com) - AI image enhancement
-- [Remove.bg](https://www.remove.bg) - Background removal
-- [Cleanup.pictures](https://cleanup.pictures) - Remove objects from photos
-- [Lensa](https://prisma-ai.com/lensa) - AI photo editor
 
 ## 🔄 AI Automation & Workflows
 
@@ -424,6 +338,93 @@ Access and deploy open-source AI models.
 - [RWKV](https://www.rwkv.com) - RNN-based language model
 - [Cerebras-GPT](https://www.cerebras.net/blog/cerebras-gpt) - Open compute-optimal models
 
+---
+## 🎬 AI Video Generation
+
+Professional AI-powered video creation and avatar tools.
+
+### 🎭 Avatar & Talking Head Generators
+- [HeyGen](https://www.heygen.com) - #1 AI video with realistic avatars, 4K export, video translation
+- [Synthesia](https://www.synthesia.io) - 230+ AI avatars, 140+ languages, enterprise-ready
+- [Colossyan](https://www.colossyan.com) - Interactive videos with branching scenarios for L&D
+- [D-ID](https://www.d-id.com) - Create videos from photos with AI
+- [Elai.io](https://elai.io) - Text to video with AI avatars
+- [Hour One](https://hourone.ai) - Synthetic video creation
+- [DeepBrain AI](https://www.deepbrain.io) - AI video synthesis with lifelike avatars
+- [Voomo.ai](https://www.voomo.ai) - Flexible templates with AI avatars and voices
+
+### 🎥 Text-to-Video Generators
+- [Runway Gen-4](https://runwayml.com) - Character/scene consistency with image references
+- [Sora](https://sora.com) - OpenAI's cinematic video generator, 1080p/20s
+- [Google Veo 3](https://deepmind.google/technologies/veo) - Native synchronized audio, watermarking
+- [Pika Labs](https://pika.art) - AI video generation and editing
+- [Luma Dream Machine](https://lumalabs.ai) - High-quality video generation
+- [Kling AI](https://klingai.com) - Advanced video generation
+- [Stable Video Diffusion](https://stability.ai) - Open-source video generation
+
+### ✂️ Video Editing & Enhancement
+- [Descript](https://www.descript.com) - Video editing with transcription
+- [Captions AI](https://www.captions.ai) - Automated video editing with captions
+- [InVideo](https://invideo.io) - AI video creation and editing
+- [Pictory](https://pictory.ai) - Turn text content into videos
+- [Vidnoz](https://www.vidnoz.com) - Free AI video tools
+- [revid.ai](https://revid.ai) - Viral video generator with TikTok trends
+- [Munch](https://www.getmunch.com) - Extract highlights from long videos
+
+## 🎵 AI Music & Audio
+
+Create original music and audio with AI-powered tools.
+
+### 🎼 AI Music Generators
+- [Suno](https://suno.ai) - #1 AI music generator, full songs with vocals
+- [Udio](https://udio.com) - Grammy-producer trusted, DAW integration, stem export
+- [Soundverse](https://www.soundverse.ai) - Text-to-Music AI, Auto Complete, Stem Separation
+- [ElevenLabs Music](https://elevenlabs.io/music) - AI music and sound effects generation
+- [Soundraw](https://soundraw.io) - Unlimited generation, granular control, royalty-free
+- [AIVA](https://www.aiva.ai) - AI composer for professional scoring
+- [Beatoven.ai](https://www.beatoven.ai) - Royalty-free music for creators
+- [Mubert](https://mubert.com) - AI-generated royalty-free music
+- [Loudly](https://www.loudly.com) - AI music for DJs and sound designers
+- [Riffusion](https://www.riffusion.com) - Visual spectrogram diffusion music
+- [Musicfy](https://www.musicfy.lol) - Quick royalty-free tracks
+- [AudioCipher](https://www.audiocipher.com) - Text-to-MIDI conversion
+
+### 🎙 AI Voice & Audio Tools
+- [ElevenLabs](https://elevenlabs.io) - Best AI voice generation and cloning
+- [Speechify](https://speechify.com) - Text-to-speech platform
+- [Descript Overdub](https://www.descript.com/overdub) - AI voice cloning
+- [Play.ht](https://play.ht) - AI voice generator
+- [Resemble AI](https://www.resemble.ai) - Voice cloning and synthesis
+- [Murf AI](https://murf.ai) - AI voiceover generator
+
+## 🎨 Creative AI Tools
+
+AI-powered tools for visual, design, and creative work.
+
+### 🖼 AI Image Generators
+- [Midjourney](https://www.midjourney.com) - Leading AI image generation
+- [DALL-E 3](https://openai.com/dall-e-3) - OpenAI's image generator
+- [Stable Diffusion](https://stability.ai) - Open-source image generation
+- [Leonardo.ai](https://leonardo.ai) - Creative AI image platform
+- [Krea](https://krea.ai) - Real-time AI image generation
+- [Firefly](https://www.adobe.com/products/firefly.html) - Adobe's AI image generator
+- [Ideogram](https://ideogram.ai) - AI with great text rendering
+- [Flux](https://blackforestlabs.ai) - New frontier in image generation
+
+### 🎨 AI Design Tools
+- [Canva AI](https://www.canva.com/ai-image-generator) - AI design features in Canva
+- [Figma AI](https://www.figma.com/ai) - AI tools in Figma
+- [Framer AI](https://www.framer.com) - AI website builder
+- [Uizard](https://uizard.io) - UI design with AI
+- [Galileo AI](https://www.usegalileo.ai) - UI generation from text
+- [Khroma](https://www.khroma.co) - AI color tool for designers
+
+### ✨ AI Image Editing
+- [Photoshop AI](https://www.adobe.com/products/photoshop.html) - Adobe's AI features
+- [Topaz Labs](https://www.topazlabs.com) - AI image enhancement
+- [Remove.bg](https://www.remove.bg) - Background removal
+- [Cleanup.pictures](https://cleanup.pictures) - Remove objects from photos
+- [Lensa](https://prisma-ai.com/lensa) - AI photo editor
 ---
 
 ## 🌟 Featured Resources
