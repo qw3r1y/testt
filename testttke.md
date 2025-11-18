@@ -113,11 +113,7 @@ Explore and share GPT applications and prompts.
 - [PromptBase](https://promptbase.com) - Buy and sell quality prompts
 - [Poe](https://poe.com) - Chat with multiple AI models
 
-## 🎨 AI Creation Tools
-- [Uizard](https://uizard.io) - AI-powered UI design tool
-- [RunwayML](https://runwayml.com) - Creative AI tools platform
-- [Clipdrop](https://clipdrop.co) - AI-powered visual tools
-- [Character.AI](https://character.ai) - Create AI characters and chatbots
+
 
 ## 📚 Research & Academic Resources
 
@@ -431,6 +427,12 @@ AI-powered tools for visual, design, and creative work.
 - [Remove.bg](https://www.remove.bg) - Background removal
 - [Cleanup.pictures](https://cleanup.pictures) - Remove objects from photos
 - [Lensa](https://prisma-ai.com/lensa) - AI photo editor
+
+### 🎨 AI Creation Tools
+- [Uizard](https://uizard.io) - AI-powered UI design tool
+- [RunwayML](https://runwayml.com) - Creative AI tools platform
+- [Clipdrop](https://clipdrop.co) - AI-powered visual tools
+- [Character.AI](https://character.ai) - Create AI characters and chatbots
 ---
 
 ## 🌟 Featured Resources
@@ -465,6 +467,7 @@ AI-powered tools for visual, design, and creative work.
 - [@darioamodei](https://twitter.com/darioamodei) - Dario Amodei (Anthropic CEO)
 - [@gdb](https://twitter.com/gdb) - Greg Brockman (OpenAI President)
 - [@emollick](https://twitter.com/emollick) - Ethan Mollick (Wharton, AI & Business) - 600k+ followers
+
 
 ---
 
