@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bia-pain-bache/BPB-Worker-Panel/main/docs/assets/images/Panel.gif" alt="AI Tools Preview" width="800"/>
+  <img src="https://img-s1.onedio.com/id-56dec6eaed94e2d62fcaf5a6/rev-0/w-600/h-337/f-jpg/s-78236902f52bf5213b7abb1766f6cab60b179e1a.jpg" alt="AI Tools Preview" width="800"/>
 </div>
 
 ---
