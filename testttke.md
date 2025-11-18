@@ -2,7 +2,6 @@
 
 > A comprehensive, curated collection of 300+ AI tools, learning resources, communities, and development platforms for developers, researchers, creators, and AI enthusiasts. Updated November 2025.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202025-brightgreen.svg)](https://github.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com)
 
@@ -246,28 +245,6 @@ Stay updated with the latest AI research and papers.
 - [@MSFTResearch](https://twitter.com/MSFTResearch) - Microsoft Research
 - [@TeslaAI](https://twitter.com/TeslaAI) - Tesla AI developments
 
-
-## 🔄 AI Automation & Workflows
-
-Powerful automation platforms for connecting apps and building workflows.
-
-### 🔌 No-Code Automation Platforms
-- [Zapier](https://zapier.com) - 8,700+ integrations, beginner-friendly, AI-powered Zaps
-- [Make](https://www.make.com) - Visual automation, 3,000+ apps, advanced flow control
-- [n8n](https://n8n.io) - Open-source, self-hosted, 70+ AI nodes with LangChain
-- [Pipedream](https://pipedream.com) - Developer-friendly automation
-- [Activepieces](https://www.activepieces.com) - Open-source automation
-
-### 🤖 AI-Native Automation
-- [Lleverage](https://www.lleverage.ai) - AI-native automation with text-to-workflow
-- [Zapier Central](https://zapier.com/central) - AI-powered bots for business
-- [Zapier Canvas](https://zapier.com/canvas) - Visual process mapping with AI
-- [Relay.app](https://relay.app) - AI-powered workflow automation
-
-### 🏢 Enterprise Integration Tools
-- [Integromat/Celigo](https://www.celigo.com) - iPaaS solution
-- [Automate.io](https://automate.io) - Simple automation tool
-
 ## 📰 News & Trends
 
 Stay informed about the latest AI developments.
@@ -298,6 +275,28 @@ Stay informed about the latest AI developments.
 - [The Gradient](https://thegradient.pub) - AI research analysis
 - [AI Alignment Forum](https://www.alignmentforum.org) - AI safety discussions
 - [LessWrong](https://www.lesswrong.com) - Rationality and AI
+## 🔄 AI Automation & Workflows
+
+Powerful automation platforms for connecting apps and building workflows.
+
+### 🔌 No-Code Automation Platforms
+- [Zapier](https://zapier.com) - 8,700+ integrations, beginner-friendly, AI-powered Zaps
+- [Make](https://www.make.com) - Visual automation, 3,000+ apps, advanced flow control
+- [n8n](https://n8n.io) - Open-source, self-hosted, 70+ AI nodes with LangChain
+- [Pipedream](https://pipedream.com) - Developer-friendly automation
+- [Activepieces](https://www.activepieces.com) - Open-source automation
+
+### 🤖 AI-Native Automation
+- [Lleverage](https://www.lleverage.ai) - AI-native automation with text-to-workflow
+- [Zapier Central](https://zapier.com/central) - AI-powered bots for business
+- [Zapier Canvas](https://zapier.com/canvas) - Visual process mapping with AI
+- [Relay.app](https://relay.app) - AI-powered workflow automation
+
+### 🏢 Enterprise Integration Tools
+- [Integromat/Celigo](https://www.celigo.com) - iPaaS solution
+- [Automate.io](https://automate.io) - Simple automation tool
+
+
 
 ## 📦 Datasets
 
@@ -498,10 +497,7 @@ AI-powered tools for visual, design, and creative work.
 ---
 
 <div align="center">
-  
-### ⭐ Star this repo if you find it helpful!
 
-**Made with ❤️ by the AI Community**
 
 [⬆ Back to Top](#-ai-resources--tools-directory)
 
