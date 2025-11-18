@@ -24,11 +24,11 @@
 
 ---
 
-## 🔧 AI Tool Directories & Discovery
+## 🔧 AI Discovery
 
 Discover and explore the latest AI tools across different categories with these comprehensive directories.
 
-### 🌟 Major Multi-Category Directories
+### 🌟 Multi-AI Web Sites 
 Comprehensive platforms covering all AI tool categories.
 
 - [AIToolHunt](https://www.aitoolhunt.com) - Curated collection with daily updates across 50+ categories
@@ -41,37 +41,35 @@ Comprehensive platforms covering all AI tool categories.
 - [ProductHunt](https://www.producthunt.com) - Daily updated tech products, community-driven
 - [FutureTools](https://www.futuretools.io) - Curated collection with free tool filters
 
-### 🎯 Specialized & Niche Directories
+
 Domain-specific and industry-focused AI tool directories.
 
-#### Business & Enterprise
+
 - [B12 AI Directory](https://www.b12.io/ai-directory) - Business-focused AI tools
 - [SaaS AI Tools](https://saasaitools.com/directories) - SaaS-specific solutions
 - [AI Valley](https://aivalley.ai) - Startup and business tools
 - [ListedAI](https://www.listedai.co) - Enterprise AI solutions
 
-#### Development & Technical
+
 - [OpenTools](https://opentools.ai) - Open-source AI tools directory
 - [GetDX](https://getdx.com) - Developer-focused tools
 - [Hugging Face](https://huggingface.co) - ML models and datasets hub
 - [GitHub](https://github.com/topics/artificial-intelligence) - Open-source AI projects
 
-#### Research & Academic
+
 - [Papers With Code](https://paperswithcode.com) - ML papers with implementations
 - [arXiv](https://arxiv.org) - Scientific papers repository
 - [Semantic Scholar](https://www.semanticscholar.org) - AI-powered research tool
 
-#### Creative & Design
+
 - [AI Tools Directory](https://aitoolsdirectory.com) - Design and creative tools
 - [AITopTools](https://aitoptools.com) - Creative AI applications
 - [Insidr AI](https://insidr.ai/ai-tools) - 500+ tools with detailed info
 
-#### Marketing & Social Media
+
 - [AI Tools.fyi](https://aitools.fyi) - Marketing automation tools
 - [AI Scout](https://aiscout.net) - Social media and content tools
-
-### 📊 Review & Comparison Platforms
-Platforms for comparing and reviewing AI tools.
+- [Perplexity](https://www.perplexity.ai) - AI-powered search and discovery
 
 - [G2](https://www.g2.com/categories/ai) - Software reviews with ratings
 - [Capterra](https://www.capterra.com/artificial-intelligence-software) - Business software comparisons
@@ -79,10 +77,6 @@ Platforms for comparing and reviewing AI tools.
 - [AI Pedia Hub](https://aipediahub.com) - Largest directory, daily updates
 - [Based Tools](https://basedtools.com) - Community-curated AI directory
 - [Best AI Tools Org](https://bestaitools.org) - Tools with ChatBot + Academy
-
-### 🆓 Free Tools Collections
-Directories focused on free and freemium AI tools.
-
 - [Futurepedia Free Tools](https://www.futurepedia.io/ai-tools?pricing=free) - Free tools filter
 - [Futurism AI](https://futurism.com/categories/ai-artificial-intelligence) - News and free tools
 
@@ -128,11 +122,11 @@ Explore and share GPT applications and prompts.
 - [PromptBase](https://promptbase.com) - Buy and sell quality prompts
 - [Poe](https://poe.com) - Chat with multiple AI models
 
-### 🎨 AI Design & Creation Tools
+## 🎨 AI Creation Tools
 - [Uizard](https://uizard.io) - AI-powered UI design tool
 - [RunwayML](https://runwayml.com) - Creative AI tools platform
 - [Clipdrop](https://clipdrop.co) - AI-powered visual tools
-- [Perplexity](https://www.perplexity.ai) - AI-powered search and discovery
+
 - [Character.AI](https://character.ai) - Create AI characters and chatbots
 
 ## 📚 Research & Academic Resources
@@ -214,7 +208,7 @@ Stay updated with the latest AI research and papers.
 - [r/LLMDevs](https://www.reddit.com/r/LLMDevs) - LLM development
 - [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion) - Image generation
 
-### 🐦 X (Twitter) Communities & Spaces
+### 🐦 X (Twitter) Communities 
 
 #### AI Communities on X
 - [AI Community](https://x.com/i/communities/1669621226803798017) - 100k+ members, active daily discussions
@@ -224,8 +218,7 @@ Stay updated with the latest AI research and papers.
 - [AI Ethics & Safety](https://x.com/i/communities/ai-safety) - AI safety discussions
 - [Prompt Engineering](https://x.com/i/communities/prompt-eng) - Prompt crafting and sharing
 
-#### Popular AI Spaces Hosts
-Accounts that regularly host informative AI Spaces:
+
 - [@sama](https://twitter.com/sama) - Sam Altman (OpenAI CEO) - AI developments
 - [@karpathy](https://twitter.com/karpathy) - Andrej Karpathy - Technical deep dives
 - [@lexfridman](https://twitter.com/lexfridman) - Lex Fridman - AI research discussions
@@ -233,16 +226,13 @@ Accounts that regularly host informative AI Spaces:
 - [@AndrewYNg](https://twitter.com/AndrewYNg) - Andrew Ng - AI education
 - [@demishassabis](https://twitter.com/demishassabis) - Demis Hassabis - DeepMind updates
 
-#### Top AI Influencers & Researchers to Follow
 
-**🎯 CEOs & Founders**
 - [@sama](https://twitter.com/sama) - Sam Altman (OpenAI CEO) - 3.1M followers
 - [@demishassabis](https://twitter.com/demishassabis) - Demis Hassabis (DeepMind CEO)
 - [@gdb](https://twitter.com/gdb) - Greg Brockman (OpenAI President)
 - [@darioamodei](https://twitter.com/darioamodei) - Dario Amodei (Anthropic CEO)
 - [@kaifulee](https://twitter.com/kaifulee) - Kai-Fu Lee (01.AI) - 1.4M followers
 
-**🔬 Leading Researchers**
 - [@karpathy](https://twitter.com/karpathy) - Andrej Karpathy (OpenAI, ex-Tesla AI)
 - [@ylecun](https://twitter.com/ylecun) - Yann LeCun (Meta AI Chief Scientist)
 - [@AndrewYNg](https://twitter.com/AndrewYNg) - Andrew Ng (DeepLearning.AI, Stanford)
@@ -254,7 +244,7 @@ Accounts that regularly host informative AI Spaces:
 - [@Thom_Wolf](https://twitter.com/Thom_Wolf) - Thomas Wolf (Hugging Face)
 - [@lmthang](https://twitter.com/lmthang) - Thang Luong (Google Brain)
 
-**💼 AI Business Leaders & Influencers**
+
 - [@alliekmiller](https://twitter.com/alliekmiller) - Allie K. Miller (#1 AI Business Voice) - 1.5M+ followers
 - [@Kirk_Borne](https://twitter.com/Kirk_Borne) - Kirk Borne (Data Scientist, Top AI Influencer)
 - [@RonaldvanLoon](https://twitter.com/RonaldvanLoon) - Ronald van Loon (AI, Big Data Influencer)
@@ -265,7 +255,7 @@ Accounts that regularly host informative AI Spaces:
 - [@GaryMarcus](https://twitter.com/GaryMarcus) - Gary Marcus (AI Researcher, Author)
 - [@spirosmargaris](https://twitter.com/spirosmargaris) - Spiros Margaris (FinTech, AI VC)
 
-**🏢 Major AI Companies & Labs**
+
 - [@OpenAI](https://twitter.com/OpenAI) - OpenAI official account
 - [@GoogleDeepMind](https://twitter.com/GoogleDeepMind) - Google DeepMind
 - [@MetaAI](https://twitter.com/MetaAI) - Meta AI Research
@@ -277,105 +267,20 @@ Accounts that regularly host informative AI Spaces:
 - [@MIT_CSAIL](https://twitter.com/MIT_CSAIL) - MIT CSAIL
 - [@stanfordhai](https://twitter.com/stanfordhai) - Stanford HAI
 
-**📰 AI News & Media Accounts**
+
 - [@AInewsfeed](https://twitter.com/AInewsfeed) - AI news aggregator
 - [@AIatMeta](https://twitter.com/AIatMeta) - Meta AI updates
 - [@GoogleAI](https://twitter.com/GoogleAI) - Google AI
 - [@MSFTResearch](https://twitter.com/MSFTResearch) - Microsoft Research
 - [@TeslaAI](https://twitter.com/TeslaAI) - Tesla AI developments
 
-### 🌐 Other Communities
+## 🌐 Other Communities
 - [Hacker News AI](https://news.ycombinator.com) - Tech and AI news, discussions
 - [AI Alignment Forum](https://www.alignmentforum.org) - AI safety discussions
 - [LessWrong](https://www.lesswrong.com) - Rationality and AI
 - [LinkedIn AI Groups](https://www.linkedin.com/search/results/groups/?keywords=artificial%20intelligence) - Professional networking
 
-## 🎬 AI Video Generation
 
-Professional AI-powered video creation and avatar tools.
-
-### 🎭 Avatar & Talking Head Generators
-- [HeyGen](https://www.heygen.com) - #1 AI video with realistic avatars, 4K export, video translation
-- [Synthesia](https://www.synthesia.io) - 230+ AI avatars, 140+ languages, enterprise-ready
-- [Colossyan](https://www.colossyan.com) - Interactive videos with branching scenarios for L&D
-- [D-ID](https://www.d-id.com) - Create videos from photos with AI
-- [Elai.io](https://elai.io) - Text to video with AI avatars
-- [Hour One](https://hourone.ai) - Synthetic video creation
-- [DeepBrain AI](https://www.deepbrain.io) - AI video synthesis with lifelike avatars
-- [Voomo.ai](https://www.voomo.ai) - Flexible templates with AI avatars and voices
-
-### 🎥 Text-to-Video Generators
-- [Runway Gen-4](https://runwayml.com) - Character/scene consistency with image references
-- [Sora](https://sora.com) - OpenAI's cinematic video generator, 1080p/20s
-- [Google Veo 3](https://deepmind.google/technologies/veo) - Native synchronized audio, watermarking
-- [Pika Labs](https://pika.art) - AI video generation and editing
-- [Luma Dream Machine](https://lumalabs.ai) - High-quality video generation
-- [Kling AI](https://klingai.com) - Advanced video generation
-- [Stable Video Diffusion](https://stability.ai) - Open-source video generation
-
-### ✂️ Video Editing & Enhancement
-- [Descript](https://www.descript.com) - Video editing with transcription
-- [Captions AI](https://www.captions.ai) - Automated video editing with captions
-- [InVideo](https://invideo.io) - AI video creation and editing
-- [Pictory](https://pictory.ai) - Turn text content into videos
-- [Vidnoz](https://www.vidnoz.com) - Free AI video tools
-- [revid.ai](https://revid.ai) - Viral video generator with TikTok trends
-- [Munch](https://www.getmunch.com) - Extract highlights from long videos
-
-## 🎵 AI Music & Audio
-
-Create original music and audio with AI-powered tools.
-
-### 🎼 AI Music Generators
-- [Suno](https://suno.ai) - #1 AI music generator, full songs with vocals
-- [Udio](https://udio.com) - Grammy-producer trusted, DAW integration, stem export
-- [Soundverse](https://www.soundverse.ai) - Text-to-Music AI, Auto Complete, Stem Separation
-- [ElevenLabs Music](https://elevenlabs.io/music) - AI music and sound effects generation
-- [Soundraw](https://soundraw.io) - Unlimited generation, granular control, royalty-free
-- [AIVA](https://www.aiva.ai) - AI composer for professional scoring
-- [Beatoven.ai](https://www.beatoven.ai) - Royalty-free music for creators
-- [Mubert](https://mubert.com) - AI-generated royalty-free music
-- [Loudly](https://www.loudly.com) - AI music for DJs and sound designers
-- [Riffusion](https://www.riffusion.com) - Visual spectrogram diffusion music
-- [Musicfy](https://www.musicfy.lol) - Quick royalty-free tracks
-- [AudioCipher](https://www.audiocipher.com) - Text-to-MIDI conversion
-
-### 🎙 AI Voice & Audio Tools
-- [ElevenLabs](https://elevenlabs.io) - Best AI voice generation and cloning
-- [Speechify](https://speechify.com) - Text-to-speech platform
-- [Descript Overdub](https://www.descript.com/overdub) - AI voice cloning
-- [Play.ht](https://play.ht) - AI voice generator
-- [Resemble AI](https://www.resemble.ai) - Voice cloning and synthesis
-- [Murf AI](https://murf.ai) - AI voiceover generator
-
-## 🎨 Creative AI Tools
-
-AI-powered tools for visual, design, and creative work.
-
-### 🖼 AI Image Generators
-- [Midjourney](https://www.midjourney.com) - Leading AI image generation
-- [DALL-E 3](https://openai.com/dall-e-3) - OpenAI's image generator
-- [Stable Diffusion](https://stability.ai) - Open-source image generation
-- [Leonardo.ai](https://leonardo.ai) - Creative AI image platform
-- [Krea](https://krea.ai) - Real-time AI image generation
-- [Firefly](https://www.adobe.com/products/firefly.html) - Adobe's AI image generator
-- [Ideogram](https://ideogram.ai) - AI with great text rendering
-- [Flux](https://blackforestlabs.ai) - New frontier in image generation
-
-### 🎨 AI Design Tools
-- [Canva AI](https://www.canva.com/ai-image-generator) - AI design features in Canva
-- [Figma AI](https://www.figma.com/ai) - AI tools in Figma
-- [Framer AI](https://www.framer.com) - AI website builder
-- [Uizard](https://uizard.io) - UI design with AI
-- [Galileo AI](https://www.usegalileo.ai) - UI generation from text
-- [Khroma](https://www.khroma.co) - AI color tool for designers
-
-### ✨ AI Image Editing
-- [Photoshop AI](https://www.adobe.com/products/photoshop.html) - Adobe's AI features
-- [Topaz Labs](https://www.topazlabs.com) - AI image enhancement
-- [Remove.bg](https://www.remove.bg) - Background removal
-- [Cleanup.pictures](https://cleanup.pictures) - Remove objects from photos
-- [Lensa](https://prisma-ai.com/lensa) - AI photo editor
 
 ## 🔄 AI Automation & Workflows
 
@@ -499,7 +404,92 @@ Access and deploy open-source AI models.
 - [@darioamodei](https://twitter.com/darioamodei) - Dario Amodei (Anthropic CEO)
 - [@gdb](https://twitter.com/gdb) - Greg Brockman (OpenAI President)
 - [@emollick](https://twitter.com/emollick) - Ethan Mollick (Wharton, AI & Business) - 600k+ followers
+## 🎬 AI Video Generation
 
+Professional AI-powered video creation and avatar tools.
+
+### 🎭 Avatar & Talking Head Generators
+- [HeyGen](https://www.heygen.com) - #1 AI video with realistic avatars, 4K export, video translation
+- [Synthesia](https://www.synthesia.io) - 230+ AI avatars, 140+ languages, enterprise-ready
+- [Colossyan](https://www.colossyan.com) - Interactive videos with branching scenarios for L&D
+- [D-ID](https://www.d-id.com) - Create videos from photos with AI
+- [Elai.io](https://elai.io) - Text to video with AI avatars
+- [Hour One](https://hourone.ai) - Synthetic video creation
+- [DeepBrain AI](https://www.deepbrain.io) - AI video synthesis with lifelike avatars
+- [Voomo.ai](https://www.voomo.ai) - Flexible templates with AI avatars and voices
+
+### 🎥 Text-to-Video Generators
+- [Runway Gen-4](https://runwayml.com) - Character/scene consistency with image references
+- [Sora](https://sora.com) - OpenAI's cinematic video generator, 1080p/20s
+- [Google Veo 3](https://deepmind.google/technologies/veo) - Native synchronized audio, watermarking
+- [Pika Labs](https://pika.art) - AI video generation and editing
+- [Luma Dream Machine](https://lumalabs.ai) - High-quality video generation
+- [Kling AI](https://klingai.com) - Advanced video generation
+- [Stable Video Diffusion](https://stability.ai) - Open-source video generation
+
+### ✂️ Video Editing & Enhancement
+- [Descript](https://www.descript.com) - Video editing with transcription
+- [Captions AI](https://www.captions.ai) - Automated video editing with captions
+- [InVideo](https://invideo.io) - AI video creation and editing
+- [Pictory](https://pictory.ai) - Turn text content into videos
+- [Vidnoz](https://www.vidnoz.com) - Free AI video tools
+- [revid.ai](https://revid.ai) - Viral video generator with TikTok trends
+- [Munch](https://www.getmunch.com) - Extract highlights from long videos
+
+## 🎵 AI Music & Audio
+
+Create original music and audio with AI-powered tools.
+
+### 🎼 AI Music Generators
+- [Suno](https://suno.ai) - #1 AI music generator, full songs with vocals
+- [Udio](https://udio.com) - Grammy-producer trusted, DAW integration, stem export
+- [Soundverse](https://www.soundverse.ai) - Text-to-Music AI, Auto Complete, Stem Separation
+- [ElevenLabs Music](https://elevenlabs.io/music) - AI music and sound effects generation
+- [Soundraw](https://soundraw.io) - Unlimited generation, granular control, royalty-free
+- [AIVA](https://www.aiva.ai) - AI composer for professional scoring
+- [Beatoven.ai](https://www.beatoven.ai) - Royalty-free music for creators
+- [Mubert](https://mubert.com) - AI-generated royalty-free music
+- [Loudly](https://www.loudly.com) - AI music for DJs and sound designers
+- [Riffusion](https://www.riffusion.com) - Visual spectrogram diffusion music
+- [Musicfy](https://www.musicfy.lol) - Quick royalty-free tracks
+- [AudioCipher](https://www.audiocipher.com) - Text-to-MIDI conversion
+
+### 🎙 AI Voice & Audio Tools
+- [ElevenLabs](https://elevenlabs.io) - Best AI voice generation and cloning
+- [Speechify](https://speechify.com) - Text-to-speech platform
+- [Descript Overdub](https://www.descript.com/overdub) - AI voice cloning
+- [Play.ht](https://play.ht) - AI voice generator
+- [Resemble AI](https://www.resemble.ai) - Voice cloning and synthesis
+- [Murf AI](https://murf.ai) - AI voiceover generator
+
+## 🎨 Creative AI Tools
+
+AI-powered tools for visual, design, and creative work.
+
+### 🖼 AI Image Generators
+- [Midjourney](https://www.midjourney.com) - Leading AI image generation
+- [DALL-E 3](https://openai.com/dall-e-3) - OpenAI's image generator
+- [Stable Diffusion](https://stability.ai) - Open-source image generation
+- [Leonardo.ai](https://leonardo.ai) - Creative AI image platform
+- [Krea](https://krea.ai) - Real-time AI image generation
+- [Firefly](https://www.adobe.com/products/firefly.html) - Adobe's AI image generator
+- [Ideogram](https://ideogram.ai) - AI with great text rendering
+- [Flux](https://blackforestlabs.ai) - New frontier in image generation
+
+### 🎨 AI Design Tools
+- [Canva AI](https://www.canva.com/ai-image-generator) - AI design features in Canva
+- [Figma AI](https://www.figma.com/ai) - AI tools in Figma
+- [Framer AI](https://www.framer.com) - AI website builder
+- [Uizard](https://uizard.io) - UI design with AI
+- [Galileo AI](https://www.usegalileo.ai) - UI generation from text
+- [Khroma](https://www.khroma.co) - AI color tool for designers
+
+### ✨ AI Image Editing
+- [Photoshop AI](https://www.adobe.com/products/photoshop.html) - Adobe's AI features
+- [Topaz Labs](https://www.topazlabs.com) - AI image enhancement
+- [Remove.bg](https://www.remove.bg) - Background removal
+- [Cleanup.pictures](https://cleanup.pictures) - Remove objects from photos
+- [Lensa](https://prisma-ai.com/lensa) - AI photo editor
 ### 📚 Recommended Books
 - **"Deep Learning"** by Ian Goodfellow, Yoshua Bengio, Aaron Courville
 - **"Artificial Intelligence: A Modern Approach"** by Stuart Russell, Peter Norvig
