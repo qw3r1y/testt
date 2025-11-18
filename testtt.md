@@ -146,15 +146,7 @@ Stay updated with the latest AI research and papers.
 - [Microsoft Learn AI](https://learn.microsoft.com/en-us/training/browse/?terms=artificial%20intelligence) - Microsoft AI training
 - [Coursera AI Courses](https://www.coursera.org/courses?query=artificial%20intelligence) - University AI courses
 
-### 📰 Newsletters & Publications
-- [The Sequence](https://thesequence.substack.com) - ML and AI insights
-- [Import AI](https://www.importai.com) - Weekly AI research digest by Jack Clark
-- [TLDR AI](https://tldr.tech/ai) - Daily AI news summary
-- [Ben's Bites](https://www.bensbites.com) - Daily AI updates
-- [Latent Space](https://www.latent.space) - AI engineering podcast and newsletter
-- [The Batch](https://www.deeplearning.ai/the-batch) - DeepLearning.AI newsletter
-- [AI Breakfast](https://aibreakfast.beehiiv.com) - Morning AI digest
-- [The Neuron](https://www.theneurondaily.com) - Daily AI newsletter
+er
 
 ### 📺 YouTube Channels
 - [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers) - AI research explained simply
@@ -262,7 +254,14 @@ Stay informed about the latest AI developments.
 - [VentureBeat AI](https://venturebeat.com/category/ai) - AI business news
 - [Ars Technica AI](https://arstechnica.com/tag/artificial-intelligence) - Technical AI coverage
 - [Hacker News AI](https://news.ycombinator.com) - Tech and AI news, discussions
-
+- [The Sequence](https://thesequence.substack.com) - ML and AI insights
+- [Import AI](https://www.importai.com) - Weekly AI research digest by Jack Clark
+- [TLDR AI](https://tldr.tech/ai) - Daily AI news summary
+- [Ben's Bites](https://www.bensbites.com) - Daily AI updates
+- [Latent Space](https://www.latent.space) - AI engineering podcast and newsletter
+- [The Batch](https://www.deeplearning.ai/the-batch) - DeepLearning.AI newsletter
+- [AI Breakfast](https://aibreakfast.beehiiv.com) - Morning AI digest
+- [The Neuron](https://www.theneurondaily.com) - Daily AI newslett
 
 
 ## 🔄 AI Automation & Workflows
