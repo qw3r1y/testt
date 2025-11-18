@@ -305,7 +305,7 @@ Powerful automation platforms for connecting apps and building workflows.
 
 Stay informed about the latest AI developments.
 
-### 📡 News Outlets & Social Media
+### 📡 News Outlets & Twitter
 
 **News Sites**
 - [MIT Tech Review AI](https://www.technologyreview.com/ai) - In-depth AI analysis
